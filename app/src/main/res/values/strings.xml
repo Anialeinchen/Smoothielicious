@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Smoothie Master</string>
+    <string name="str">strawberry</string>
+    <string name="ban">banana</string>
+    <string name="ber">berries</string>
+    <string name="man">mango</string>
+    <string name="color_txt">The most probable color of your smoothie is:</string>
+    <string name="choose_components">Choose components</string>
+    <string name="hon">honey</string>
+    <string name="map">maple syrup</string>
+    <string name="agave_syrup">agave syrup</string>
+</resources>
