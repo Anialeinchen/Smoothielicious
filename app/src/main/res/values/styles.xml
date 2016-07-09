@@ -8,9 +8,4 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="CheckboxTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- My Checkbox Theme -->
-        <item name="android:textColor">#E64A19</item>
-    </style>
-
 </resources>

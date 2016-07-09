@@ -9,4 +9,7 @@
     <string name="hon">honey</string>
     <string name="map">maple syrup</string>
     <string name="agave_syrup">agave syrup</string>
+    <string name="let_s_smooothie">Let\'s Smooothie!</string>
+    <string name="calories">Calories:</string>
+    <string name="nutrition_values">Nutrition Values:</string>
 </resources>
